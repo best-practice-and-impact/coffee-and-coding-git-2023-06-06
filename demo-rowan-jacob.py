@@ -15,3 +15,10 @@ def add_two_numbers(first_number, second_number):
     """
 
     return first_number + second_number
+
+
+def add_multiple_numbers(*args):
+    
+    return sum(args)
+
+
