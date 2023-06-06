@@ -1,4 +1,4 @@
-Coffee and Coding Collaborating using Git 2023-06-06
+# Coffee and Coding Collaborating using Git 2023-06-06
 This repository contains several simple tasks, chosen to allow people to focus on using Git and working together on code in pairs.
 These tasks can be accessed via the `Issues` or `Projects` tab.
 One task is intended as a demo by workshop leaders. Three similar tasks are provided for attendees to try in groups of two or three. Two "stretch tasks" are provided for people who complete the other tasks quickly.
